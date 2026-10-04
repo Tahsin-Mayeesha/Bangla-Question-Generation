@@ -1,6 +1,6 @@
-# BanglaQG
+# Bangla Question Generation
 
-**BanglaQG** is the official release of the code, models, generated questions, and dataset for **answer-aware Bengali Question Generation (QG)** introduced in the paper:
+This is the official release of the code, models, generated questions, and dataset for **answer-aware Bengali Question Generation (QG)** introduced in the paper:
 
 ### [Transformer based Answer-Aware Bengali Question Generation](https://doi.org/10.1016/j.ijcce.2023.09.003)
 
